@@ -1,6 +1,6 @@
-### Hello, I am [REDACTED] or as I am called on the internet "Light"
+## Hello, I am [REDACTED] or as I am called on the internet "Light"
 
-## I am a developer and idiot, who may have brain damage!
+### I am a developer and idiot, who may have brain damage!
 
 - 🔍 My recent search history:
     - Is becoming gay the only way to not be a simp?
