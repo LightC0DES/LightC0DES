@@ -2,7 +2,7 @@
 
 🥅 2020 goal(s):
 
-    -Become a better developer and contribute to open source projects?
+    - Become a better developer and contribute to open source projects?
 
 #### Languages I kinda know:
     -(Roblox) Lua
