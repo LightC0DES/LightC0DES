@@ -1,13 +1,13 @@
-## Hello, I am [REDACTED] or as I am called on the internet "Light"
+## Hello! I'm Light! I'm an okay developer, I guess?
 
-### I am a developer and idiot, who may have brain damage!
+- 🥅 2020 goal(s):
+    - Become a better developer and contribute to open source projects?
 
-- 🔍 My recent search history:
-    - Is becoming gay the only way to stop people calling me a simp?
-    - How to stop people calling me a simp?
-    - What's the defeniton of simp?
-    - gamer girl bath water
-    - belle delphine twitch
-- 🥅 2020 goals:
-    - Get belle delphine to say my name on stream
-- ⚡ Fun fact: I have bairn damag
+#### Languages I kinda know:
+    -(Roblox) Lua
+    -Python
+    -JavaScript
+    -C#
+    -Java (maybe?)
+    -C++ (A real stretch)
+    -Binary (I know 10 is 2)
